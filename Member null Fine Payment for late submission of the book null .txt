@@ -1,0 +1,3 @@
+Member ID = null
+Book ID = null
+Fine Payments = Rs.null

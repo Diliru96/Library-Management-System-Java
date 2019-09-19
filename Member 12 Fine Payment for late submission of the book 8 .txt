@@ -1,0 +1,3 @@
+Member ID = 12
+Book ID = 8
+Fine Payments = Rs.110
